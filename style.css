@@ -1,0 +1,247 @@
+*{
+    margin: opx;
+}
+
+#slide1{
+    position: absolute;
+    width: 1350px;
+    height: 768px;
+    left: 0px;
+    top: 0px;
+
+    background: #FEC703;
+}
+
+#headline{
+    position: absolute;
+    width: 346px;
+    height: 92px;
+    left: 80px;
+    top: 161px;
+
+    font-family: 'Qualy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 80px;
+
+    color: #000000;
+}
+
+#upperline{
+    position: absolute;
+    width: 594px;
+    height: 16px;
+    left: 80px;
+    top: 190px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 27px;
+    line-height: 16px;
+
+    color: #000000;
+}
+
+#collegename{
+    position: absolute;
+    width: 909px;
+    height: 49px;
+    left: 80px;
+    top: 365px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 27px;
+    line-height: 49px;
+
+    color: #000000;    
+}
+
+#buttonbox{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 193px;
+    height: 55px;
+    left: 80px;
+    top: 415px;
+
+    border: 3px solid #000000;
+    border-radius: 47.5px;
+}
+
+#explorebutton{
+    position: absolute;
+    width: 146px;
+    height: 41px;
+    left: 125px;
+    top: 420px;
+
+    font-family: 'Qualy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 41px;
+
+    color: #000000;    
+}
+
+#Home{
+    position: absolute;
+    width: 68px;
+    height: 28px;
+    left: 178px;
+    top: 61px;
+
+    font-family: 'Qualy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #000000;    
+}
+
+#About{
+    position: absolute;
+    width: 78px;
+    height: 28px;
+    left: 297px;
+    top: 61px;
+
+    font-family: 'Qualy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #000000;    
+}
+
+#Gallery{
+    position: absolute;
+    width: 96px;
+    height: 28px;
+    left: 419px;
+    top: 61px;
+
+    font-family: 'Qualy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #000000;    
+}
+
+#Events{
+    position: absolute;
+    width: 83px;
+    height: 28px;
+    left: 552px;
+    top: 61px;
+
+    font-family: 'Qualy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #000000;    
+}
+
+#Blogs{
+    position: absolute;
+    width: 71px;
+    height: 28px;
+    left: 681px;
+    top: 61px;
+
+    font-family: 'Qualy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #000000;    
+}
+
+#ContactUs{
+    position: absolute;
+    width: 140px;
+    height: 28px;
+    left: 795px;
+    top: 61px;
+
+    font-family: 'Qualy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #000000;    
+}
+
+#logo{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 80px;
+    top: 40px;
+    
+}
+
+#smallbox1{
+    position: absolute;
+    width: 27.92px;
+    height: 840.58px;
+    left: 1105.77px;
+    top: -707.17px;
+
+    background: #000000;
+    transform: matrix(1, 0, -0.23, 0.97, 0, 0);       
+}
+
+#smallbox2{
+    position: absolute;
+    width: 27.92px;
+    height: 840.58px;
+    left: 1070.8px;
+    top: -747px;
+
+    background: #000000;
+    transform: matrix(1, 0, -0.23, 0.97, 0, 0);    
+}
+
+#smallbox3{
+    position: absolute;
+    width: 27.92px;
+    height: 840.58px;
+    left: 1160.61px;
+    top: -747px;
+
+    background: #000000;
+    transform: matrix(1, 0, -0.23, 0.97, 0, 0);    
+}
+
+#largebox{
+    position: absolute;
+    width: 200.29px;
+    height: 799.9px;
+    left: 1050.71px;
+    top: -20px;
+
+    background: #000000;
+    transform: matrix(1, 0, -0.23, 0.97, 0, 0);         
+}
+
+#bulb{
+    position: absolute;
+    width: 1980px;
+    height: 1320px;
+    left: 489px;
+    top: -20px;    
+}
